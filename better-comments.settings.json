@@ -1,0 +1,85 @@
+{
+    "better-comments.tags": [
+        {
+            "tag": "!",
+            "color": "#FF6B6B",
+            "strikethrough": false,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": true,
+            "italic": false
+        },
+        {
+            "tag": "?",
+            "color": "#4ECDC4",
+            "strikethrough": false,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": false,
+            "italic": true
+        },
+        {
+            "tag": "todo",
+            "color": "#FFA726",
+            "strikethrough": false,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": true,
+            "italic": false
+        },
+        {
+            "tag": "fixme",
+            "color": "#FF7043",
+            "strikethrough": false,
+            "underline": true,
+            "backgroundColor": "transparent",
+            "bold": true,
+            "italic": false
+        },
+        {
+            "tag": "note",
+            "color": "#81C784",
+            "strikethrough": false,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": true,
+            "italic": false
+        },
+        {
+            "tag": "bug",
+            "color": "#E91E63",
+            "strikethrough": false,
+            "underline": false,
+            "backgroundColor": "#E91E6320",
+            "bold": true,
+            "italic": false
+        },
+        {
+            "tag": "PERF",
+            "color": "#9C27B0",
+            "strikethrough": false,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": false,
+            "italic": true
+        },
+        {
+            "tag": "//",
+            "color": "#78909C",
+            "strikethrough": true,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": false,
+            "italic": true
+        },
+        {
+            "tag": "done",
+            "color": "#66BB6A",
+            "strikethrough": true,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": false,
+            "italic": false
+        },
+    ]
+}
