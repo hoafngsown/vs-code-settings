@@ -64,7 +64,7 @@
     }
   },
   "editor.fontFamily": "Dank Mono",
-  "editor.fontLipgatures": true,
+  "editor.fontLigatures": true,
   "editor.lineHeight": 1.8,
   "editor.lineNumbers": "on",
   "editor.scrollbar.horizontal": "hidden",
