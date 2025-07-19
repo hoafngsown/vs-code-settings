@@ -1,0 +1,38 @@
+[
+  {
+    "key": "ctrl+shift+c",
+    "command": "fileutils.copyName"
+  },
+  {
+    "key": "ctrl+d",
+    "command": "fileutils.delete"
+  },
+  {
+    "key": "ctrl+c",
+    "command": "fileutils.duplicate"
+  },
+  {
+    "key": "ctrl+shift+m",
+    "command": "fileutils.move"
+  },
+  {
+    "key": "ctrl+m",
+    "command": "fileutils.newFileRelativeToCurrentView"
+  },
+  {
+    "key": "ctrl+.",
+    "command": "fileutils.newFileRelativeToProjectRoot"
+  },
+  {
+    "key": "ctrl+.",
+    "command": "fileutils.newFolderRelativeToCurrentView"
+  },
+  {
+    "key": "ctrl+/",
+    "command": "fileutils.newFolderRelativeToProjectRoot"
+  },
+  {
+    "key": "ctrl+r",
+    "command": "fileutils.rename"
+  }
+]

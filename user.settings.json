@@ -27,7 +27,7 @@
     ".monaco-workbench .part.editor > .content .editor-group-container > .title.title-border-bottom:after": "display: none",
     ".monaco-scrollable-element > .shadow.top": "display: none",
     ".sidebar .title-label": "padding: 0 !important",
-    ".sidebar": "border: none !important",
+    ".sidebar": "border: none !important", 
     ".monaco-workbench .monaco-list:not(.element-focused):focus:before": "outline: none !important",
     ".monaco-list-row.focused": "outline: none !important",
     ".monaco-editor .scroll-decoration": "display: none",
